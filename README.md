@@ -6,6 +6,6 @@ In order to compile the program on Windows:
 For admin user:  
   user:1234567  
   pass:1234  
-For normal user:
+For normal user:  
   user:1234568  
   pass:1234  
