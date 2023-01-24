@@ -6,8 +6,12 @@
   <li>Then type <code>output.exe</code>.</li>
 </ol>
 <h4>For admin user:</h4>
-	user: 1234567<br>
-	pass: 1234<br>
+<ul>
+   <li>user: 1234567<br></li>
+   <li>pass: 1234<br></li>
+ </ul>
 <h4>For normal user:</h4>
-	user: 1234568<br>
-	pass: 1234<br>
+<ul>
+   <li>user: 1234568<br></li>
+   <li>pass: 1234<br></li>
+</ul>
